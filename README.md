@@ -1,2 +1,2 @@
 # REACT-simple-counter-useReducer
-create a simple counter using useReducer().
+Create a simple counter using useState() and then transform the code using useReducer().
